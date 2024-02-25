@@ -1,0 +1,47 @@
+body{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+body{
+    background-color: aqua;
+}
+.tem1{
+    width: 200px;
+    height: 250px;
+    background-color: white;
+border-bottom-right-radius: 50px;
+   border-top-left-radius: 50px;
+  
+}
+.tem2{
+    margin-top: 60px;
+    margin-left: 25px;
+}
+ .tem3{
+    color: violet;
+    margin-top: -30px;
+    margin-left: 10px;
+
+ }
+button{
+    width: 170px;
+height: 30px;
+background-color:dodgerblue;
+color: white;
+border: 1px solid transparent;
+cursor: pointer;
+font-size: 18px;
+font-weight: 100;
+transition: 1s;
+margin-left: -10px;
+border-top-right-radius: 20px;
+border-bottom-left-radius: 20px;
+border-top-left-radius: 20px;
+border-bottom-right-radius: 20px;
+margin-top: -15px;
+}
+.tem5{
+    margin-left: 15px;
+}
